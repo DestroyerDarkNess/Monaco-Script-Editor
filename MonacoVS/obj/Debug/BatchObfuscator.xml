@@ -1,0 +1,53 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+BatchObfuscator
+</name>
+</assembly>
+<members>
+<member name="P:BatchObfuscator.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:BatchObfuscator.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:BatchObfuscator.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:BatchObfuscator.Iconhelper.GetIconImage(System.String,BatchObfuscator.IconSizes)">
+	<summary>Gets a Bitmap image of the specified file or folder icon.</summary>
+	<param name="FileOrFolderPath">The full path to the folder or file to get the icon image from, or just a file extension (.ext) to get the registered icon image of the file type.</param>
+	<param name="IconSize">The size of the icon to retrieve.</param>
+</member><member name="T:BatchObfuscator.DrawHelpers1">
+	<summary>
+ Visual Studio GDI+ Theme
+ Creator: Xertz (HF)
+ Version: 1.1
+ Control Count: 11
+ Date Created: 11/5/2014
+ Date Changed: 11/6/2014
+ UID: 1602992
+ Email: xertzstudio@gmail.com
+ For any bugs / errors, PM me.
+ </summary>
+	<remarks></remarks>
+</member><member name="T:BatchObfuscator.DrawHelpers">
+	<summary>
+ LogIn GDI+ Theme
+ Creator: Xertz (HF)
+ Version: 1.4
+ Control Count: 28
+ Date Created: 18/12/2013
+ Date Changed: 07/09/2014
+ UID: 1602992
+ For any bugs / errors, PM me.
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

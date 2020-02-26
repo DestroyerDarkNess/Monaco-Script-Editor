@@ -1,0 +1,15 @@
+C:\Users\S4lsalsoft\Documents\Visual Studio 2012\Projects\BatchObfuscator\BatchObfuscator\bin\Debug\BatchObfuscator.exe.config
+C:\Users\S4lsalsoft\Documents\Visual Studio 2012\Projects\BatchObfuscator\BatchObfuscator\bin\Debug\BatchObfuscator.exe
+C:\Users\S4lsalsoft\Documents\Visual Studio 2012\Projects\BatchObfuscator\BatchObfuscator\bin\Debug\BatchObfuscator.pdb
+C:\Users\S4lsalsoft\Documents\Visual Studio 2012\Projects\BatchObfuscator\BatchObfuscator\bin\Debug\BatchObfuscator.xml
+C:\Users\S4lsalsoft\Documents\Visual Studio 2012\Projects\BatchObfuscator\BatchObfuscator\obj\Debug\BatchObfuscator.MonacoEditor.resources
+C:\Users\S4lsalsoft\Documents\Visual Studio 2012\Projects\BatchObfuscator\BatchObfuscator\obj\Debug\BatchObfuscator.Form1.resources
+C:\Users\S4lsalsoft\Documents\Visual Studio 2012\Projects\BatchObfuscator\BatchObfuscator\obj\Debug\BatchObfuscator.Resources.resources
+C:\Users\S4lsalsoft\Documents\Visual Studio 2012\Projects\BatchObfuscator\BatchObfuscator\obj\Debug\MonacoVS.vbproj.GenerateResource.Cache
+C:\Users\S4lsalsoft\Documents\Visual Studio 2012\Projects\BatchObfuscator\BatchObfuscator\obj\Debug\BatchObfuscator.exe
+C:\Users\S4lsalsoft\Documents\Visual Studio 2012\Projects\BatchObfuscator\BatchObfuscator\obj\Debug\BatchObfuscator.xml
+C:\Users\S4lsalsoft\Documents\Visual Studio 2012\Projects\BatchObfuscator\BatchObfuscator\obj\Debug\BatchObfuscator.pdb
+C:\Users\S4lsalsoft\Documents\Visual Studio 2012\Projects\BatchObfuscator\MonacoVS\bin\Debug\BatchObfuscator.exe.config
+C:\Users\S4lsalsoft\Documents\Visual Studio 2012\Projects\BatchObfuscator\MonacoVS\obj\Debug\BatchObfuscator.exe
+C:\Users\S4lsalsoft\Documents\Visual Studio 2012\Projects\BatchObfuscator\MonacoVS\obj\Debug\BatchObfuscator.xml
+C:\Users\S4lsalsoft\Documents\Visual Studio 2012\Projects\BatchObfuscator\MonacoVS\obj\Debug\BatchObfuscator.pdb
